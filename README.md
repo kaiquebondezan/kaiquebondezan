@@ -2,7 +2,7 @@
 
  ---
  
-<p align="center">**Languages and Tools:**</p>
+**Languages and Tools:**
 
 <p align="center">
 
