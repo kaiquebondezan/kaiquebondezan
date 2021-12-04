@@ -5,7 +5,7 @@
 
 
 
-
+<div>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kbondezan&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kbondezan&redirect=true)</div>
 
 <div>
 <a href="https://github.com/kaiquebondezan">
