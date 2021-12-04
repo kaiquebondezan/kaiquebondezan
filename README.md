@@ -16,15 +16,11 @@
  ---
 <div align="center">
  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kbondezan&unique={true|1|on|yes})
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kbondezan&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
  
 </div>
 
-<div>
- 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kbondezan&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
- 
- </div>
+
  ---
  
 <div align="center">
