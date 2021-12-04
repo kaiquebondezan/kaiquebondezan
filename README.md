@@ -1,6 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Kaique.
 
+ ---
+ 
 **Languages and Tools:**
 
 <p align="center">
@@ -11,6 +13,8 @@
 
   </div>
   </p>
+
+ ---
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kbondezan&unique={true|1|on|yes})
 
