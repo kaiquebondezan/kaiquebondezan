@@ -14,10 +14,9 @@
   </p>
   
  ---
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
-</div>
  ---
  
 <div align="center">
