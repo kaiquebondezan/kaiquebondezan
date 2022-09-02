@@ -14,19 +14,13 @@
   </p>
   
  ---
-<div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebondezan&theme=nord)
- 
- 
-</div>
-
- ---
  
 <div align="center">
+ 
 <a href="https://github.com/kaiquebondezan">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquebondezan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebondezan&theme=nord)
+ 
 </div>
 
 
