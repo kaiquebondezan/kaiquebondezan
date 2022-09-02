@@ -15,7 +15,8 @@
   
  ---
 <div align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebondezan&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 </div>
  ---
  
