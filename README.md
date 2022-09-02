@@ -14,9 +14,9 @@
   </p>
   
  ---
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebondezan&theme=tokyonight)
-
+ <div align="center">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebondezan&theme=nord)
+</div>
  ---
  
 <div align="center">
