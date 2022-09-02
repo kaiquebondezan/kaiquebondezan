@@ -14,8 +14,12 @@
   </p>
   
  ---
-
+<div align="center">
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebondezan&theme=nord)
+ 
+ 
+</div>
 
  ---
  
