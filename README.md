@@ -13,13 +13,7 @@
   </div>
   </p>
   
- ---
-<div align="center">
- 
 
- 
- 
-</div>
 
 
  ---
