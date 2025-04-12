@@ -14,5 +14,4 @@
 </div>
 </p>
 
-
-  
+[![Top Langs]([https://github-readm-stats-kaiquebondezans-projects.vercel.app/api/top-langs/?username=kaiquebondezan&count_private=true&theme=gotham])]
