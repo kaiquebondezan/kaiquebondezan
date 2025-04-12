@@ -13,3 +13,6 @@
 
 </div>
 </p>
+
+
+[![Top Langs](https://github-readm-stats-kaiquebondezans-projects.vercel.app/api/top-langs/?username=kaiquebondezan&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
